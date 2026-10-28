@@ -12,7 +12,7 @@ This repository is for Tutorial #4 Part A and B, practicing Git and GitHub: bran
 2. Created the repository and cloned it to my computer
 3. Added my classmate as a collaborator
 4. Created a new branch (my-branch)
-5. Added name.py, which prints my and collaborator name
+5. Added name.py, which prints my name and collaborator name
 6. Committed with a clear message
 7. Pushed the branch to GitHub
 8. Opened a pull request and assigned my classmate as reviewer
