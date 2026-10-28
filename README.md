@@ -5,7 +5,7 @@ This repository is for Tutorial #4 Part A and B, practicing Git and GitHub: bran
 
 ## Collaborators
 - Wayne Gokul (YellowWolf1)
-- Your Name here (GitHub username)
+- Casey Narine (GitHub username)
 
 ## Steps Followed
 1. Installed Git and created a GitHub account
